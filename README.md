@@ -24,7 +24,7 @@ Ich bin Shease, ein kleiner Entwickler und Plugin Creator. Die meiste Zeit verbr
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=janvgx.janvgx)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lsheasel.lsheasel)
 
 #### Github Stats
 
