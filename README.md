@@ -29,17 +29,6 @@ Ich bin Shease, ein kleiner Entwickler und Plugin Creator. Die meiste Zeit verbr
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=janvgx.janvgx)
 
-
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-Node.js      15 hrs 41 mins  ████████████████████▓░░░░   52.29 % 
-HTML         10 hrs 50 mins  ██████████▒░░░░░░░░░░░░░░   37.61 % 
-CSS          1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-```
-<!--END_SECTION:waka-->
-
 #### Github Stats
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=lsheasel&count_private=true&theme=tokyonight&hide=contribs,prs)
