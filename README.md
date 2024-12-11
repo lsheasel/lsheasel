@@ -1,4 +1,4 @@
-## Hi I'm JanVGX <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi ich bin Shease <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 Ich bin Shease, ein kleiner Entwickler und Plugin Creator. Die meiste Zeit verbringe ich damit, herausragende Projekte zu programmieren
 
