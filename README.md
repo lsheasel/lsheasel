@@ -1,13 +1,12 @@
-## Hi ich bin's Shease <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I'm JanVGX <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm JanVGX, a small Developer and Content Creator on Youtube. I Spend most of time coding outstanding projects or recording tutorials.
+Ich bin Shease, ein kleiner Entwickler und Plugin Creator. Die meiste Zeit verbringe ich damit, herausragende Projekte zu programmieren
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m coding on Replit
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- ⚡ Fun fact: I play games and code very often.
+- 🔭 Ich programmiere hauptsächlich mit IntelliJ IDEA
+- 😊 Ich bin auf der suche nach neuen Projekten 
+- ⚡ Fun fact: Ich hab vor kurzem erst mit Plugins angefangen
 
 #### Top Technologies
 
