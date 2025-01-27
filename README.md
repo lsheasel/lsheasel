@@ -4,7 +4,7 @@ Ich bin Shease, ein kleiner Entwickler und Plugin Creator. Die meiste Zeit verbr
 
 <!-- TODO: Add last video link -->
 
-- 🔭 Ich programmiere hauptsächlich mit IntelliJ IDEA
+- 🔭 Ich programmiere hauptsächlich mit den Jetbrain IDE's
 - 😊 Ich bin auf der suche nach neuen Projekten 
 - ⚡ Fun fact: Ich Programmiere eigentlich schon lange habe aber erst jetzt richtig angefangen
 
