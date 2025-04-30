@@ -1,25 +1,28 @@
-<h2 align="left">Hi 👋! My name is Shease and I'm a Solo Developer, from Germany</h2>
+<h2 align="left">Hi 👋! My name is Shease and I'm a Solo Developer from Germany</h2>
 
-Ich bin Shease, ein kleiner Entwickler und Plugin Creator. Die meiste Zeit verbringe ich damit, herausragende Projekte zu programmieren
+I'm Shease, a small developer and plugin creator. Most of my time is spent programming outstanding projects.
 
 <!-- TODO: Add last video link -->
 
-- 🔭 Ich programmiere hauptsächlich mit den Jetbrain IDE's
-- 😊 Ich bin auf der suche nach neuen Projekten 
-- ⚡ Fun fact: Ich Programmiere eigentlich schon lange habe aber erst jetzt richtig angefangen
+- 🔭 I mainly code using JetBrains IDEs  
+- 😊 I'm currently looking for new projects  
+- ⚡ Fun fact: I've actually been programming for a long time, but only recently started taking it seriously  
 
-#### Meine Sprachen die ich kann
+#### The languages I know
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-### Github Stats
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
+### GitHub Stats
 
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
+[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd  
+[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s  
+[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s  
+[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lsheasel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
