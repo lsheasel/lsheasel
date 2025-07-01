@@ -4,7 +4,7 @@ I'm Shease, a small developer and plugin creator. Most of my time is spent progr
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I mainly code using JetBrains IDEs  
+- 🔭 I mainly code using Visual Studio Code 
 - 😊 I'm currently looking for new projects  
 - ⚡ Fun fact: I've actually been programming for a long time, but only recently started taking it seriously  
 
