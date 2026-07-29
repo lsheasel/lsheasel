@@ -26,6 +26,5 @@ I'm Shease, a small developer and plugin creator. Most of my time is spent progr
 [htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s  
 [javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lsheasel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=lsheasel)](https://git.io/streak-stats)
