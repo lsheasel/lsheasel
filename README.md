@@ -28,5 +28,4 @@ I'm Shease, a small developer and plugin creator. Most of my time is spent progr
 
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=lsheasel&show_icons=true&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=lsheasel&theme=github_dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lsheasel&layout=compact&theme=github_dark)
