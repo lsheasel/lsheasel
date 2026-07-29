@@ -27,4 +27,4 @@ I'm Shease, a small developer and plugin creator. Most of my time is spent progr
 [javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E  
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lsheasel)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lsheasel" alt="GitHub Streak" /></a>
