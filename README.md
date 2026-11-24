@@ -1,40 +1,87 @@
-<h3 align="center">Software & Game Developer · Linux Enthusiast · Open Source Contributor</h3>
+<h1 align="center">Hey there, I'm Shease</h1>
 
-### Über mich
-- In Ausbildung zum Anwendungsentwickler, später Umschulung zum Systemintegrator (dann Full Stack)
-- Web, Backend & Tools
-- Arbeite hauptsächlich mit Visual Studio Code
-- Aktuell offen für neue Projekte
-- Portfolio: [shease.de](https://shease.de)
+<p align="center">
+  <a href="https://shease.de">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+%26+Game+Developer;Linux+Enthusiast;Open+Source+Contributor;Shipped+a+game+on+Steam" alt="Typing SVG" />
+  </a>
+</p>
 
-### Projekte
+<p align="center">
+  <a href="https://shease.de"><img src="https://img.shields.io/badge/Portfolio-shease.de-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://store.steampowered.com/app/4881220/Checkate/"><img src="https://img.shields.io/badge/Steam-Checkate-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Checkate on Steam"/></a>
+  <img src="https://img.shields.io/badge/Status-Currently%20busy-E5534B?style=for-the-badge" alt="Currently busy"/>
+</p>
 
-[Checkate](https://store.steampowered.com/app/4881220/Checkate/), mein Spiel auf Steam
+---
 
-### Sprachen & Tools
+### About Me
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Fedora](https://img.shields.io/badge/fedora-%23294172.svg?style=for-the-badge&logo=fedora&logoColor=white)
+```yaml
+name:      Shease
+role:      Software & Game Developer
+training:  Apprentice Application Developer -> System Integrator -> Full Stack
+focus:     [Web, Backend, Tools, Games]
+os:        Fedora Linux
+editor:    Visual Studio Code
+status:    Currently busy
+```
+
+<h3 align="center">Featured Projects</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://store.steampowered.com/app/4881220/Checkate/">
+        <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4881220/7520df7598e51e7d8807f015999087011e54b8a6/header.jpg?t=1792589400" width="100%" alt="Checkate"/>
+      </a>
+      <h3><a href="https://store.steampowered.com/app/4881220/Checkate/">Checkate</a></h3>
+      My own game, released on Steam.<br/><br/>
+      <a href="https://store.steampowered.com/app/4881220/Checkate/"><img src="https://img.shields.io/badge/View%20on%20Steam-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="View on Steam"/></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/lsheasel/LocalCode">
+        <img src="https://github.com/lsheasel/LocalCode/blob/main/docs/media/session.png?raw=true" width="100%" alt="LocalCode session in the terminal"/>
+      </a>
+      <h3><a href="https://github.com/lsheasel/LocalCode">LocalCode</a></h3>
+      A coding agent for your terminal that runs on your own machine.<br/>
+      No account, no API key, your code never leaves your computer.<br/><br/>
+      <a href="https://github.com/lsheasel/LocalCode"><img src="https://img.shields.io/badge/View%20on%20GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/></a>
+    </td>
+  </tr>
+</table>
+
+### Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,c,ts,js,html,css,nextjs,supabase,linux,vscode&perline=6" alt="Tech Stack"/>
+  </a>
+</p>
 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=lsheasel&show_icons=true&theme=github_dark" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lsheasel&layout=compact&theme=github_dark" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=lsheasel&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lsheasel&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170"/>
 </p>
 
-### Nützliche Tutorials / Ressourcen
-- [React Playlist](https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd)
-- [VS Code Tutorial](https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s)
-- [HTML Tutorial](https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s)
-- [JavaScript Tutorial](https://www.youtube.com/watch?v=D-LHKvmX37E)
+<details>
+<summary><b>Useful Tutorials & Resources</b></summary>
+<br/>
 
-<p align="center">Danke fürs Vorbeischauen!</p>
+| Topic | Link |
+|-------|------|
+| React | [Playlist](https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd) |
+| VS Code | [Tutorial](https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s) |
+| HTML | [Tutorial](https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s) |
+| JavaScript | [Tutorial](https://www.youtube.com/watch?v=D-LHKvmX37E) |
+
+</details>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lsheasel&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile views"/>
+  <br/>
+  <i>Thanks for stopping by!</i>
+</p>
